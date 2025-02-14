@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Lee%20Junyoung&desc=Electronic%20Engineering%20and%20Computer%20Science&descSize=15&fontAlignY=15&descAlignY=30&fontSize=50&rotate=19&fontAlign=70&descAlign=79.3" alt="header" />
 </div>
 
-<!--내용 부분-->
+<!--Tech Stack 부분-->
 <h3 align="center">Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
@@ -15,12 +15,13 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
 </div>
 
 <br />
 <br />
 
-<!--데이터베이스 부분-->
+<!--Database 부분-->
 <h3 align="center">Database</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-6DB33F.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
@@ -31,7 +32,7 @@
 <br />
 <br />
 
-<!--툴 부분-->
+<!--Tools 부분-->
 <h3 align="center">Tools</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -50,7 +51,8 @@
 <br />
 <br />
 
-<!--깃허브 통계 부분-->
+<!--GitHub Stats 부분-->
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eecsjlee&theme=default&show_icons=true" alt="eecsjlee's GitHub stats" />
 </div>
