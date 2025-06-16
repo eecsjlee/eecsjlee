@@ -4,8 +4,8 @@
 </div>
 
 ## About Me
-- Graduated in Electronic Engineering, currently studying Computer Science  
-- Always striving to improve as a reliable and consistent Software Engineer
+- Graduated in Electronic Engineering, currently studying Computer Science.  
+- Always striving to improve as a reliable and consistent Software Engineer.
 
 <br />
 <br />
@@ -18,7 +18,7 @@
 <h3 align="center">Language & Framework</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/csharp-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logoColor=white" alt="C#" />
 </div>
 
 <div align="center">
@@ -72,9 +72,21 @@
 
 ## Experience
 
+<!--Experience 부분-->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-FFC400.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/kicad-314CB6.svg?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
 </div>
 
 <br />
